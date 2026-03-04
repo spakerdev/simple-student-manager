@@ -150,18 +150,6 @@ gcc -Wall -Wextra -std=c11 -o student_manager student_manager.c
 
 ---
 
-## 🔮 Possible Future Improvements
-
-* Median grade calculation
-* Standard deviation
-* Input validation & error recovery
-* Multi-file modular design (.h/.c separation)
-* Hash-table-based indexing
-* SQLite database integration
-* Networked version (client-server)
-* Unit tests
-
----
 
 ## 📜 License
 
